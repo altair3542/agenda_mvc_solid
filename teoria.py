@@ -4,7 +4,7 @@
 
 # LSP (Liskov substitution) Subcalses sustituibles por su superclase sin romper el sistema.
 
-# ISP (interface segregation principle): interfaces especificas en vez de intgerfaces monoliticas.
+# ISP (interface segregation principle): interfaces especificas en vez de interfaces monoliticas.
 
 # DIP (dependency inversion): depender de abstracciones y no de implementaciones concretas.
 
